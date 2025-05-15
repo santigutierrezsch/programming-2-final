@@ -2,8 +2,6 @@
 
 A central dashboard for students to track schedules, assignments, and school information.
 
-![SchoolHub Dashboard](https://via.placeholder.com/800x450?text=SchoolHub+Dashboard)
-
 ## Overview
 
 SchoolHub is a comprehensive web application built with Flask that serves as a central hub for students to manage their academic life. It combines essential tools including a dashboard, calendar, task manager, and bulletin board in one intuitive interface.
