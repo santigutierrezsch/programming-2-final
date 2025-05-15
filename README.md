@@ -157,13 +157,6 @@ schoolhub/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgements
-
-- [Flask](https://flask.palletsprojects.com/)
-- [Supabase](https://supabase.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [OpenWeatherMap](https://openweathermap.org/) for weather data
-
 ---
 
 Built with ❤️ for better student organization
